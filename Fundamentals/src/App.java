@@ -8,4 +8,8 @@ public class App {
 /*
  * Just type `jshell` in the terminal
  * compiling `javac <filename>` 
+ * run code `java <classname>`
  */
+
+//  Java Runtime Environment(JRE) - has libraries, JVM
+//  Java Development Kit(JDK) - has JRE
