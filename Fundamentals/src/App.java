@@ -12,4 +12,6 @@ public class App {
  */
 
 //  Java Runtime Environment(JRE) - has libraries, JVM
-//  Java Development Kit(JDK) - has JRE
+//  Java Development Kit(JDK) - has JRE 
+//  JDK 17 
+
