@@ -6,6 +6,12 @@ public class Variables {
 
         int result = num1 + num2;
 
+        double gpa = 23.23333334;
+        char grade = 'C';
+
+        System.out.println(gpa);
+        System.out.println(grade);
+
         System.out.println(num1);
         System.out.println(2342 + 23489);
         System.out.println(result);
