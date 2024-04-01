@@ -10,17 +10,28 @@ public class Literals{
          * 
          * 
          */
-        int num1 = 9;
-        byte by = 127;
-        short sh = 559;
-        long l = 3242l;
+        int num1 = 9; 
+        // byte by = 127;
+        // short sh = 559;
+        // long l = 3242l;
 
-        float f = 5.8f;
-        double d = 5.8;
+        // float f = 5.8f;
+        // double d = 5.8;
 
-        char c = '8';
+        char c = 'E';
+        c++;
+        System.out.println(c); //F
         
-        boolean b = true;
+        // boolean b = true;
+
+        /*Literals 
+         * 9 in num1 is a literal
+         */
+        int num2 = 0b101;
+        int num3 = 0x7E;
+        int num4 = 100_000_000; // 100000000
+        System.out.println(num2); // 5
+        System.out.println(num3); // 126
 
     }
 }
