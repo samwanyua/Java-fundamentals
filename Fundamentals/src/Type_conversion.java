@@ -17,10 +17,10 @@ public class Type_conversion {
         System.out.println(x);
 
         // Type promotions
-        byte h = 10;
-        byte g = 30;
+        byte height = 10;
+        byte age = 30;
 
-        int result = g * h;
+        int result = age * height;
         System.out.println(result);
 
 
