@@ -29,7 +29,7 @@ public class Literals{
          */
         int num2 = 0b101;
         int num3 = 0x7E;
-        int num4 = 100_000_000; // 100000000
+        // int num4 = 100_000_000; // 100000000
         System.out.println(num2); // 5
         System.out.println(num3); // 126
 

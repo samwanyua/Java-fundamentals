@@ -5,8 +5,8 @@ public class Type_conversion {
          * 
          */
 
-        byte b  = 127;
-        int a = 12;
+        // byte b  = 127;
+        // int a = 12;
 
         // b = (byte) a; // casting - explict conversion
         // System.out.println(b);
