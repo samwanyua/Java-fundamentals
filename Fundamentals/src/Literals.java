@@ -10,7 +10,7 @@ public class Literals{
          * 
          * 
          */
-        int num1 = 9; 
+        // int num1 = 9; 
         // byte by = 127;
         // short sh = 559;
         // long l = 3242l;
